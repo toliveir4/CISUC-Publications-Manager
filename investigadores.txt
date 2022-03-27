@@ -1,0 +1,30 @@
+E # Jorge Machado # jm@dei.uc.pt # tesedemestrado # 20-01-2020 # IS
+E # Penousal Henriques # penousal@dei.uc.pt # tesedemestrado # 90-02-2021 # SSE
+E # Nuno Roque # nar@dei.uc.pt # tesedemestrado # 40-04-2021 # AC # Thomas Fresco
+E # Licinio Madeira # lim@dei.uc.pt # tesedemestrado # 5-04-2020 # LCT
+E # Paulo Lourenco # plourenco@dei.uc.pt # tesedemestrado # 20-01-2021 # ECOS # Nuno Lourenco
+E # Henrique Simoes # hsimoes@dei.uc.pt # tesedemestrado # 20-01-2021 # LCT # Jorge Henriques
+P # Jorge Henriques # jh@dei.uc.pt # 22 # 214748364 # AC # R
+P # Penousal Machado # machado@dei.uc.pt # 20 # 239790010 # CMS # R
+P # Nuno Lourenco # naml@dei.uc.pt # 11 # 239790000 # ECOS # R
+P # Licinio Roque # lir@dei.uc.pt # 18 # 239701000 # IS # R
+P # Paulo Simoes # psimoes@dei.uc.pt # 15 # 239701000 # LCT # R
+P # Henrique Madeira # henrique@dei.uc.pt # 35 # 239701000 # SSE # R
+P # Thomas Fresco # fresh@dei.uc.pt # 11 # 239790000 # AC
+E # Simao Paredes # pars@dei.uc.pt # tesedemestrado # 20-01-2020 # AC
+P # Alberto Cardoso # alberto@dei.uc.pt # 93 # 20012021 # AC
+P # Ana Boavida # aboavida@dei.uc.pt # 64 # 239701000 # CMS
+P # Ana Cristina da Costa Oliveira Alves # ana@dei.uc.pt # 38 # 214748364 # CMS
+E # Ines Campos Monteiro Sabino Domingues # icdomingues@dei.uc.pt # tesedemestrado # 20-01-2020 # CMS
+P # Andre Rodrigues # andre@iscac.pt # 75 # 269795000 # LCT
+E # Ana Filipa Nogueira # afnog@dei.uc.pt # tesedemestrado # 00-02-2021 # SSE
+E # Ana Almeida # aspsalmeida@gmail.com # tesedemestrado # 20-01-2020 # IS
+E # Andre Riker # ariker@dei.uc.pt # tesedemestrado # 20-01-2010 # CMS
+E # Dina Soeiro # disoeiro@esec.pt # tesedemestrado # 20-01-2020 # IS
+E # Rui Simoes # ruifmsimoes@gmail.com # tesedemestrado # 20-01-2021 # ECOS
+E # Victor Costa # vfc@dei.uc.pt # tesedemestrado # 20-01-2021 # ECOS
+E # Pedro Lucas # phlucas@student.dei.uc.pt # tesedemestrado # 21-02-2021 # SSE
+P # Bruno Sousa # bmsousa@dei.uc.pt # 09 # 214748364 # LCT
+P # Catarina Ferreira da Silva # cferr@dei.uc.pt # 73 # 298477483 # IS
+P # Ernesto Costa # ernesto@dei.uc.pt # 01 # 290000000 # ECOS
+P # Jorge Bernardino # jorge@isec.pt # 40 # 293792783 # SSE
